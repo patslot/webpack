@@ -8,6 +8,10 @@
     "build": "webpack-dev-server",
     "build:prod": "webpack -p"
   },
+  "repository" :
+  { "type" : "git", 
+    "url" : "https://github.com/patslot/webpack.git"
+  },
   "keywords": [],
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
